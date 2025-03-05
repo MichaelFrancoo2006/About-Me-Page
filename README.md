@@ -19,5 +19,5 @@ This is a simple "About Me" webpage for Michael Francoo, an aspiring Full-Stack 
 **Michael Francoo** - Aspiring Full-Stack Web Developer
 
 ## Connect with Me
-- LinkedIn: [Michael Francoo](#)
-- GitHub: [MichaelFrancoo2006](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/michaelfrancoo)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/MichaelFrancoo2006)
